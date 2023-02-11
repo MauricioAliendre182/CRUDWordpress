@@ -1,0 +1,78 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation group: 'io.cucumber', name: 'cucumber-java', version: '7.11.1'
+    testImplementation group: 'io.cucumber', name: 'cucumber-testng', version: '7.11.1'
+    testImplementation group: 'io.cucumber', name: 'cucumber-picocontainer', version: '7.11.1'
+    implementation group: 'io.rest-assured', name: 'rest-assured', version: '5.3.0'
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.14.2'
+    implementation group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jdk8', version: '2.14.2'
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.19.0'
+    implementation group: 'org.slf4j', name: 'slf4j-simple', version: '2.0.5'
+    implementation group: 'me.jvt.cucumber', name: 'reporting-plugin', version: '7.3.0'
+}
+
+test {
+    useTestNG()
+//    setBuildNumber()
+//    systemProperty "envId", envId
+}
+
+configurations {
+    cucumberRuntime {
+        extendsFrom testImplementation
+    }
+}
+
+task executeFeatures(type: Test) {
+    dependsOn assemble, testClasses
+    doLast {
+        javaexec {
+            mainClass = "io.cucumber.core.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+            args = [
+                    '--plugin', 'pretty',
+                    '--plugin', 'me.jvt.cucumber.report.PrettyReports:reports',
+                    '--plugin', 'html:reports/cucumber-reports/cucumber-reports.html',
+                    '--plugin', 'json:build/cucumber/cucumber.json',
+                    '--plugin', 'rerun:build/cucumber/rerun.txt',
+                    '--glue', 'com.jalasoft.wordpress',
+//                    '--tags', cucumberOptions
+            ]
+        }
+    }
+}
+
+task reExecuteFeatures(type: Test) {
+    dependsOn assemble, testClasses
+    doLast {
+        javaexec {
+            mainClass = "io.cucumber.core.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+            args = [
+                    '--plugin', 'pretty',
+                    '--plugin', 'me.jvt.cucumber.report.PrettyReports:reports',
+                    '--plugin', 'html:reports/cucumber-reports/cucumber-reports.html',
+                    '--plugin', 'json:build/cucumber/rerun/cucumber.json',
+                    '--plugin', 'rerun:build/cucumber/rerun.txt',
+                    '--glue', 'com.jalasoft.wordpress',
+                    '@build/cucumber/rerun.txt'
+            ]
+        }
+    }
+}
+
+//def setBuildNumber() {
+//    ant.propertyfile(file: "cucumber-reporting.properties") {
+//        entry(key: "buildNumber", value: buildNumber)
+//    }
+//}

@@ -1,0 +1,276 @@
+2023-02-11 14:39:34.325 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 14:39:34.330 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:39:34.330 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:39:34.330 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:39:34.331 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:39:35.857 ERROR [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Failed to retrieve Authentication Token
+2023-02-11 14:39:35.866 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with a proper role should be able to retrieve all users
+2023-02-11 14:39:35.872 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:39:36.186 ERROR [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Failed to retrieve Authentication Token
+2023-02-11 14:39:36.193 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 14:39:36.196 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 14:39:36.612 ERROR [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Failed to retrieve Authentication Token
+2023-02-11 14:39:36.624 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to retrieve a user
+2023-02-11 14:39:36.628 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 14:39:36.975 ERROR [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Failed to retrieve Authentication Token
+2023-02-11 14:39:36.980 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 14:39:36.984 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 14:39:37.438 ERROR [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Failed to retrieve Authentication Token
+2023-02-11 14:39:37.441 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to delete a user
+2023-02-11 14:40:30.183 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 14:40:30.188 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:40:30.188 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:40:30.189 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:40:30.189 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:40:31.821 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:40:32.463 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 14:40:32.469 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:40:32.745 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:40:33.095 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 14:40:33.097 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 14:40:33.351 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:40:34.151 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:40:34.926 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:40:35.250 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to retrieve a user
+2023-02-11 14:40:35.253 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 14:40:35.568 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:40:35.916 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 14:40:35.919 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 14:40:36.196 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:40:36.542 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to delete a user
+2023-02-11 14:46:33.314 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:46:33.319 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:46:33.320 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:46:33.320 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:46:33.321 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:46:34.847 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:46:35.736 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 14:47:23.875 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:47:23.881 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:47:23.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:47:23.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:47:23.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:47:25.521 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:47:26.256 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 14:50:02.714 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:50:02.719 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:50:02.719 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:50:02.720 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:50:02.721 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:50:04.100 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:50:04.852 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 14:53:51.276 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:53:51.281 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:53:51.281 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:53:51.282 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:53:51.282 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:53:52.769 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:53:53.564 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 14:54:18.832 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:54:18.836 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:54:18.836 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:54:18.837 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:54:18.837 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:54:20.174 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:54:20.963 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 14:57:46.263 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:57:46.268 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:57:46.268 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:57:46.269 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:57:46.269 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:57:47.690 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:57:48.444 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 14:59:48.362 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 14:59:48.367 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 14:59:48.367 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 14:59:48.367 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 14:59:48.368 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 14:59:49.699 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 14:59:50.454 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 15:00:10.984 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 15:00:10.989 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 15:00:10.989 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 15:00:10.989 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 15:00:10.990 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 15:00:12.293 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 15:00:12.987 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 15:02:17.625 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 15:02:17.630 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 15:02:17.630 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 15:02:17.631 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 15:02:17.631 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 15:02:19.076 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 15:02:19.839 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 15:04:52.417 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 15:04:52.422 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 15:04:52.422 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 15:04:52.422 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 15:04:52.423 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 15:04:53.741 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 15:04:55.041 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 15:11:18.815 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 15:11:18.820 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 15:11:18.820 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 15:11:18.821 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 15:11:18.821 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 15:11:20.248 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 15:11:21.432 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 15:18:30.670 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 15:18:30.676 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 15:18:30.676 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 15:18:30.677 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 15:18:30.677 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 15:18:32.096 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 15:18:33.168 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to create a user
+2023-02-11 16:11:09.871 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 16:11:09.876 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 16:11:09.876 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 16:11:09.877 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 16:11:09.878 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 16:11:11.495 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:11:12.243 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 16:11:12.247 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 16:11:12.561 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:11:13.542 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to create a user
+2023-02-11 16:11:13.545 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 16:11:14.452 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:11:15.232 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to retrieve a user
+2023-02-11 16:11:15.235 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 16:11:16.015 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:11:16.765 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 16:11:16.768 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 16:11:17.405 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:11:18.097 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to delete a user
+2023-02-11 16:20:09.196 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 16:20:09.202 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 16:20:09.202 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 16:20:09.202 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 16:20:09.203 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 16:20:11.082 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:20:12.047 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 16:20:12.053 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 16:20:12.387 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:20:13.173 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to create a user
+2023-02-11 16:20:13.175 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 16:20:13.892 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:20:14.616 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to retrieve a user
+2023-02-11 16:20:14.619 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 16:20:15.303 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:20:16.269 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 16:20:16.271 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 16:20:16.992 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:20:17.452 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to delete a user
+2023-02-11 16:28:03.303 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 16:28:03.308 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 16:28:03.308 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 16:28:03.308 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 16:28:03.309 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 16:28:04.958 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:28:05.772 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 16:28:05.777 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 16:28:06.152 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:28:06.548 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to create a user
+2023-02-11 16:28:06.551 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 16:28:07.178 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:28:07.922 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to retrieve a user
+2023-02-11 16:28:07.925 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 16:28:08.627 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:28:09.322 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 16:28:09.325 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 16:28:10.060 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:28:10.494 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to delete a user
+2023-02-11 16:31:24.653 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 16:31:24.658 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 16:31:24.659 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 16:31:24.659 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 16:31:24.659 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 16:31:26.089 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:31:26.752 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 16:31:26.756 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 16:31:27.050 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:31:27.741 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to create a user
+2023-02-11 16:31:27.744 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 16:31:28.381 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:31:29.035 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to retrieve a user
+2023-02-11 16:31:29.037 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 16:31:29.665 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:31:30.342 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 16:31:30.345 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 16:31:31.056 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:31:31.529 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to delete a user
+2023-02-11 16:32:12.044 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 16:32:12.049 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 16:32:12.049 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 16:32:12.050 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 16:32:12.050 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 16:32:13.411 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:32:14.033 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 16:32:14.038 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 16:32:14.276 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:32:14.863 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to create a user
+2023-02-11 16:32:14.866 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 16:32:15.365 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:32:15.943 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to retrieve a user
+2023-02-11 16:32:15.945 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 16:32:16.667 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:32:17.274 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 16:32:17.277 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 16:32:17.804 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:32:18.120 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to delete a user
+2023-02-11 16:35:14.150 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 16:35:14.155 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 16:35:14.155 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 16:35:14.156 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 16:35:14.156 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 16:35:15.656 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:16.470 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 16:35:16.475 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 16:35:16.799 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:17.497 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to create a user
+2023-02-11 16:35:17.499 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 16:35:18.127 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:18.778 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to retrieve a user
+2023-02-11 16:35:18.781 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 16:35:19.418 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:20.105 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 16:35:20.108 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 16:35:20.722 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:21.094 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to delete a user
+2023-02-11 16:35:49.353 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 16:35:49.358 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 16:35:49.358 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 16:35:49.359 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 16:35:49.359 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 16:35:50.695 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:51.377 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 16:35:51.382 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 16:35:51.612 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:52.169 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to create a user
+2023-02-11 16:35:52.171 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 16:35:52.692 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:53.209 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to retrieve a user
+2023-02-11 16:35:53.211 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 16:35:53.711 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:54.298 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user with proper role should be able to update a user
+2023-02-11 16:35:54.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 16:35:54.801 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:35:55.115 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to delete a user
+2023-02-11 16:37:24.877 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with a proper role should be able to retrieve all users
+2023-02-11 16:37:24.883 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-11 16:37:24.883 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> QA01
+2023-02-11 16:37:24.884 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading API service config
+2023-02-11 16:37:24.884 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing API Manager
+2023-02-11 16:37:26.763 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:37:27.781 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with a proper role should be able to retrieve all users
+2023-02-11 16:37:27.788 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to create a user
+2023-02-11 16:37:28.202 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:37:29.038 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to create a user
+2023-02-11 16:37:29.041 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to retrieve a user
+2023-02-11 16:37:30.728 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:37:31.515 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to retrieve a user
+2023-02-11 16:37:31.518 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to update a user
+2023-02-11 16:37:32.224 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:37:32.996 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to update a user
+2023-02-11 16:37:33.000 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user with proper role should be able to delete a user
+2023-02-11 16:37:33.640 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Authentication Token retrieved
+2023-02-11 16:37:34.049 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user with proper role should be able to delete a user
